@@ -33,3 +33,4 @@
    3. [Example3](DIP/Example3.md)
    4. [Example4](DIP/Example4.md)
    5. [Example5](DIP/Example5.md)
+6. [Corrections](Corrections/index.md)
