@@ -1,6 +1,6 @@
 # DIP
 ---
-### Usage Example
+### Violation Example
 
 ### Where
 
