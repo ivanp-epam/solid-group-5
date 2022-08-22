@@ -16,7 +16,7 @@ NgCompiler is Class, so ReferencesBuilder depends on implementation (not abstrac
 
 ---
 
-### Violation Example
+### Usage Example
 
 ### Where
 
