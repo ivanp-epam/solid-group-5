@@ -12,7 +12,7 @@ NgCompiler is Class, so ReferencesBuilder depends on implementation (not abstrac
 
 ---
 
-# LSP
+# ISP
 
 ---
 
@@ -25,6 +25,9 @@ https://github.com/angular/angular/blob/main/packages/service-worker/worker/src/
 ### Why
 
 NamedCache extends parent interface Cache, so interface Cache is not overloaded.
+
+
+# LSP
 
 ---
 
